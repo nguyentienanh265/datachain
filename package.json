@@ -1,0 +1,22 @@
+{
+  "name": "photochain",
+  "version": "1.0.0",
+  "description": "Sharing photo using Blockchain and AI technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/soict-it4527/20221/group1/photochain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/soict-it4527/20221/group1/photochain/issues"
+  },
+  "homepage": "https://gitlab.com/soict-it4527/20221/group1/photochain#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
